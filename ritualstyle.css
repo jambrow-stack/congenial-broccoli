@@ -1,0 +1,21 @@
+body{
+
+}
+
+div{display: inline-block;}
+
+#timeprompt, #actionaction, #sense1action, #sense2action, #feelaction, #sense1,  #smellaction, #tasteaction,  #hearaction,  #seeaction, #punctuation, #hear, #see, #action {
+    float: left;
+    padding-right: 7px ;
+}
+
+#feel,  #smell,  #taste, #sense2 {
+    float:left;
+}
+
+button {
+    display: inline-block;
+    padding: 10px 20px; 
+    background-color: aqua;
+    color: rgb(110, 14, 30);
+}
